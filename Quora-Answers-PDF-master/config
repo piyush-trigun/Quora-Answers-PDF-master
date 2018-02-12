@@ -1,0 +1,2 @@
+phantomjs_path = "/usr/lib/node_modules/phantomjs/lib/phantom/bin/phantomjs"
+url = "http://www.quora.com/What-are-the-very-best-answers-on-Quora-as-chosen-by-the-Top-Writers-who-wrote-them"
